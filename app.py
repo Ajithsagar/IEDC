@@ -1,4 +1,5 @@
 a=10
 b=35
-c=a+b
-print(c)
+c=58
+A=a+b+c
+print(A)
